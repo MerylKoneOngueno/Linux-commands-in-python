@@ -1,3 +1,4 @@
+// erstellt am 30.04.2024
 import sys
 '''
 script that imitates the wc, wc -l, wc -w and wc -c command in linux. 
